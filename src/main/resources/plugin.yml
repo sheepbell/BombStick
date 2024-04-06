@@ -1,0 +1,9 @@
+name: $name
+version: $version
+main: me.sheepbell.bombstick.BombStick
+description: $description
+author: sheepbell
+api-version: "$apiVersion"
+commands:
+  bombstick:
+    description: A BombStick command
